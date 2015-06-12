@@ -1,0 +1,10 @@
+{
+	"name": "Forge/Crypt",
+	"description": "Forge Crypt",
+	"autoload": {
+		"psr-0": {"Forge": "src/"}
+	},
+	"require": {
+
+	}
+}
